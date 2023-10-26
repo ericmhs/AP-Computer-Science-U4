@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=answer
+comment0.text=\n\ Write\ a\ description\ of\ class\ answer\ here.\n\n\ @author\ Eric\ Shen\n\ @version\ Oct\ 23\n
+comment1.params=str
+comment1.target=boolean\ Palindrome(java.lang.String)
+comment2.params=str
+comment2.target=void\ chopSentence(java.lang.String)
+comment3.params=input
+comment3.target=java.lang.String\ PigLatinTranslator(java.lang.String)
+comment4.params=min\ max
+comment4.target=int\ StrictlyAscendingNumbers(int,\ int)
+comment5.params=num
+comment5.target=boolean\ check(int)
+comment6.params=n
+comment6.target=void\ timesTable(int)
+numComments=7
